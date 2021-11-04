@@ -1,4 +1,4 @@
-package com.springadvanced.app.v2.v1;
+package com.springadvanced.app.v2;
 
 import com.springadvanced.trace.TraceId;
 import com.springadvanced.trace.TraceStatus;
