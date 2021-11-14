@@ -1,6 +1,5 @@
-package com.springadvanced.app.v4.v3;
+package com.springadvanced.app.v4;
 
-import com.springadvanced.trace.TraceStatus;
 import com.springadvanced.trace.logtrace.LogTrace;
 import com.springadvanced.trace.template.AbstractTemplate;
 import lombok.RequiredArgsConstructor;
