@@ -1,4 +1,4 @@
-package hello.proxy.pureproxy.jdkdynamic.code;
+package hello.proxy.jdkdynamic.code;
 
 public interface AInterface {
     String call();
